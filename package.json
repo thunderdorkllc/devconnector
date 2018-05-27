@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Social network for developers",
   "main": "server.js",
-  "repository": "git@github.com:thunderdorkllc/devconnector.git",
   "scripts": {
     "client-install": "npm install --prefix client",
     "start": "node server.js",
