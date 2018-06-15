@@ -1,5 +1,2 @@
-npm install
-cd client
-npm install
-cd ../
+npm install && npm install ./client  
 npm run dev
